@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{fill:#C000FF;}
+	.st3{fill:#0066FF;}
+	.st4{fill:#00BAFF;}
+	.st5{fill:#46F609;}
+	.st6{fill:#FFFC00;}
+	.st7{fill:#FEA002;}
+	.st8{fill:#FF0030;}
+</style>
+<title>wait</title>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M19,3c0.5,0.7,0.6,1.6,0.4,2.5c-0.7,3.7-4.9,6.4-5.4,6.5c0.4,0.2,4.6,2.8,5.4,6.5c0.2,0.8,0.1,1.7-0.4,2.5
+				H5c-0.5-0.7-0.6-1.6-0.4-2.5c0.7-3.7,4.9-6.4,5.4-6.5c-0.4-0.2-4.6-2.8-5.4-6.5C4.4,4.6,4.5,3.7,5,3H19"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_3_" x="-31" y="-3" width="107.7" height="30"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st1">
+						<polygon class="st2" points="350,405.3 347.7,407.6 -50.2,11.8 -47.9,9.5 						"/>
+						<polygon class="st3" points="352.2,403.1 350,405.3 -47.9,9.5 -45.6,7.2 						"/>
+						<polygon class="st4" points="354.5,400.8 352.2,403.1 -45.6,7.2 -43.3,5 						"/>
+						<polygon class="st5" points="356.8,398.5 354.5,400.8 -43.3,5 -41.1,2.7 						"/>
+						<polygon class="st6" points="359.1,396.3 356.8,398.5 -41.1,2.7 -38.8,0.4 						"/>
+						<polygon class="st7" points="361.3,394 359.1,396.3 -38.8,0.4 -36.5,-1.8 						"/>
+						<polygon class="st8" points="363.6,391.8 361.3,394 -36.5,-1.8 -34.3,-4.1 						"/>
+						<polygon class="st2" points="365.9,389.5 363.6,391.8 -34.3,-4.1 -32,-6.3 						"/>
+						<polygon class="st3" points="368.2,387.2 365.9,389.5 -32,-6.3 -29.7,-8.6 						"/>
+						<polygon class="st4" points="370.4,385 368.2,387.2 -29.7,-8.6 -27.4,-10.9 						"/>
+						<polygon class="st5" points="372.7,382.7 370.4,385 -27.4,-10.9 -25.2,-13.1 						"/>
+						<polygon class="st6" points="375,380.5 372.7,382.7 -25.2,-13.1 -22.9,-15.4 						"/>
+						<polygon class="st7" points="377.2,378.2 375,380.5 -22.9,-15.4 -20.6,-17.7 						"/>
+						<polygon class="st8" points="379.5,375.9 377.2,378.2 -20.6,-17.7 -18.3,-19.9 						"/>
+						<polygon class="st2" points="381.8,373.7 379.5,375.9 -18.3,-19.9 -16.1,-22.2 						"/>
+						<polygon class="st3" points="384.1,371.4 381.8,373.7 -16.1,-22.2 -13.8,-24.4 						"/>
+						<polygon class="st4" points="386.3,369.1 384.1,371.4 -13.8,-24.4 -11.5,-26.7 						"/>
+						<polygon class="st5" points="388.6,366.9 386.3,369.1 -11.5,-26.7 -9.2,-29 						"/>
+						<polygon class="st6" points="390.9,364.6 388.6,366.9 -9.2,-29 -7,-31.2 						"/>
+						<polygon class="st7" points="393.2,362.4 390.9,364.6 -7,-31.2 -4.7,-33.5 						"/>
+						<polygon class="st8" points="395.4,360.1 393.2,362.4 -4.7,-33.5 -2.4,-35.7 						"/>
+						<polygon class="st2" points="397.7,357.8 395.4,360.1 -2.4,-35.7 -0.2,-38 						"/>
+						<polygon class="st3" points="400,355.6 397.7,357.8 -0.2,-38 2.1,-40.3 						"/>
+						<polygon class="st4" points="402.3,353.3 400,355.6 2.1,-40.3 4.4,-42.5 						"/>
+						<polygon class="st5" points="404.5,351 402.3,353.3 4.4,-42.5 6.7,-44.8 						"/>
+						<polygon class="st6" points="406.8,348.8 404.5,351 6.7,-44.8 8.9,-47.1 						"/>
+						<polygon class="st7" points="409.1,346.5 406.8,348.8 8.9,-47.1 11.2,-49.3 						"/>
+						<polygon class="st8" points="411.3,344.3 409.1,346.5 11.2,-49.3 13.5,-51.6 						"/>
+						<polygon class="st2" points="413.6,342 411.3,344.3 13.5,-51.6 15.8,-53.8 						"/>
+						<polygon class="st3" points="415.9,339.7 413.6,342 15.8,-53.8 18,-56.1 						"/>
+						<polygon class="st4" points="418.2,337.5 415.9,339.7 18,-56.1 20.3,-58.4 						"/>
+						<polygon class="st5" points="420.4,335.2 418.2,337.5 20.3,-58.4 22.6,-60.6 						"/>
+						<polygon class="st6" points="422.7,333 420.4,335.2 22.6,-60.6 24.9,-62.9 						"/>
+						<polygon class="st7" points="425,330.7 422.7,333 24.9,-62.9 27.1,-65.2 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
