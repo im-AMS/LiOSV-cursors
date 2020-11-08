@@ -1,7 +1,5 @@
 # LiOS V Cursors
 
-<a href="https://www.buymeacoffee.com/AdityaMS"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AdityaMS&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
-
 This is an x-cursor theme inspired by macOS and [posy's cursor](http://www.michieldb.nl/other/cursors/) made for Linux.
 The source files were made in Illustrator and converted to svg.
 
